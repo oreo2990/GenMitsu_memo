@@ -11,4 +11,4 @@
 
 ・設計（正規化、ER図作成）
 
-・Laravel、React
+・Laravel、React、nextjs
