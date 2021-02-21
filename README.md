@@ -11,4 +11,4 @@
 
 ・設計（正規化、ER図作成）
 
-・Laravel、React、nextjs、aws
+・Laravel、React、nextjs、aws、vercel
