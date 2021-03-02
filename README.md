@@ -9,6 +9,7 @@
 
 ・業務理解(見積の体験)
 
-・設計（正規化、ER図作成）
+・設計（正規化、ER図作成）、エンドポイント設計
 
 ・Laravel、React、nextjs、aws、vercel
+
