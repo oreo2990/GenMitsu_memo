@@ -11,5 +11,7 @@
 
 ・設計（正規化、ER図作成）、エンドポイント設計
 
+・バックエンドでDB作成時は、ソフトデリートを意識
+
 ・Laravel、React、nextjs、aws、vercel
 
