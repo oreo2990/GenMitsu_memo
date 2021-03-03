@@ -13,5 +13,7 @@
 
 ・バックエンドでDB作成時は、ソフトデリートを意識
 
+・web API仕様書の作成
+
 ・Laravel、React、nextjs、aws、vercel
 
