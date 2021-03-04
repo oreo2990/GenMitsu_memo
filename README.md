@@ -15,5 +15,9 @@
 
 ・web API仕様書の作成
 
+・laravelでAPIサーバーの SSKDs(Small Set of Known Developers、特定システムを機能させるためだけのバックエンドサーバー)
+
+・APIサーバーとSPA画面の二本立て
+
 ・Laravel、React、nextjs、aws、vercel
 
