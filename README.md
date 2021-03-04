@@ -13,7 +13,7 @@
 
 ・バックエンドでDB作成時は、ソフトデリートを意識。マイグレーションファイルでは、各カラムでコメントを残し、可読性を高めた
 
-・web API仕様書の作成
+・web API仕様書の作成(REST APIを意識)
 
 ・laravelでAPIサーバーの SSKDs(Small Set of Known Developers、特定システムを機能させるためだけのバックエンドサーバー)
 
