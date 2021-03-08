@@ -18,6 +18,8 @@
 
 ・web API仕様書の作成(REST APIを意識)
 
+・JWTを用いたステートレスなユーザーログイン
+
 https://qiita.com/Amtkxa/items/2c5df130e44e8e8d4a6b
 
 ・laravelでAPIサーバーの SSKDs(Small Set of Known Developers、特定システムを機能させるためだけのバックエンドサーバー)
