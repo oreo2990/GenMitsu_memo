@@ -29,3 +29,5 @@ https://qiita.com/Amtkxa/items/2c5df130e44e8e8d4a6b
 ・Laravel、React、nextjs、aws、vercel
 
 ・gitはdevelopからfeatureブランチ切って作ってく方針
+
+http://tealimpala23.sakura.ne.jp/table_design.html
