@@ -33,3 +33,5 @@ https://qiita.com/Amtkxa/items/2c5df130e44e8e8d4a6b
 http://tealimpala23.sakura.ne.jp/table_design.html
 
 マスターデータの入力(シーダー)
+
+enum
