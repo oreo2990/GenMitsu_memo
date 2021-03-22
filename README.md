@@ -26,7 +26,7 @@ https://qiita.com/Amtkxa/items/2c5df130e44e8e8d4a6b
 
 ・APIサーバーとSPA画面の二本立て
 
-・Laravel、React、nextjs、aws、vercel
+・Laravel、React、nextjs、aws、vercel、redux
 
 ・gitはdevelopからfeatureブランチ切って作ってく方針
 
